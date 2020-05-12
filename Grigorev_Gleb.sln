@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First", "Grigorev_Gleb\Firs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{14236265-4E86-4B56-8411-FC88DAB9803B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilesKilometers", "MilesKilometers\MilesKilometers.csproj", "{449CA0D3-5A5A-4171-B4DE-053C308E8B05}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{14236265-4E86-4B56-8411-FC88DAB9803B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14236265-4E86-4B56-8411-FC88DAB9803B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14236265-4E86-4B56-8411-FC88DAB9803B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449CA0D3-5A5A-4171-B4DE-053C308E8B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449CA0D3-5A5A-4171-B4DE-053C308E8B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449CA0D3-5A5A-4171-B4DE-053C308E8B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449CA0D3-5A5A-4171-B4DE-053C308E8B05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
