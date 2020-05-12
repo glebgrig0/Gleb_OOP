@@ -19,12 +19,12 @@ namespace Hello
 
         private void Button1_Click(object sender, EventArgs e)
         {
+            string name = textBox2.Text;
+            MessageBox.Show("Здравствуй, "+name);
             
-            MessageBox.Show("Здравствуй, пользователь.");
             
-            
-            textBox1.Text = "Здравствуй, пользователь.";
-            Text = "Здравствуй, пользователь.";
+            textBox1.Text = "Здравствуй, " + name;
+            Text = "Здравствуй, " + name;
         }
     }
 }
