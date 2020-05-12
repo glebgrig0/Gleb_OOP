@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilesKilometers", "MilesKil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressMe(third task)", "PressMe(third task)\PressMe(third task).csproj", "{44B0EFBF-B1BE-4919-8CEE-3B998432D167}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{F2893545-C0BB-4EE0-A674-C236D2FADD68}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{44B0EFBF-B1BE-4919-8CEE-3B998432D167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44B0EFBF-B1BE-4919-8CEE-3B998432D167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44B0EFBF-B1BE-4919-8CEE-3B998432D167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2893545-C0BB-4EE0-A674-C236D2FADD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2893545-C0BB-4EE0-A674-C236D2FADD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2893545-C0BB-4EE0-A674-C236D2FADD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2893545-C0BB-4EE0-A674-C236D2FADD68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
