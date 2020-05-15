@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PressMe(third task)", "Pres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{F2893545-C0BB-4EE0-A674-C236D2FADD68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bckground_task_Windows_Forms_1", "Bckground_task_Windows_Forms_1\Bckground_task_Windows_Forms_1.csproj", "{5C5FD477-FDAB-4A93-93A8-56F3A5B2D4C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F2893545-C0BB-4EE0-A674-C236D2FADD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2893545-C0BB-4EE0-A674-C236D2FADD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2893545-C0BB-4EE0-A674-C236D2FADD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5FD477-FDAB-4A93-93A8-56F3A5B2D4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5FD477-FDAB-4A93-93A8-56F3A5B2D4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5FD477-FDAB-4A93-93A8-56F3A5B2D4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5FD477-FDAB-4A93-93A8-56F3A5B2D4C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
