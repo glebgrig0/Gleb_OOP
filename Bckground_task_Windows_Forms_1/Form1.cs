@@ -31,12 +31,19 @@ namespace Bckground_task_Windows_Forms_1
             if (A.Location.X - 10 >= 0+ SystemInformation.BorderSize.Width)
             {
                 A.Location = new Point(A.Location.X - 10, A.Location.Y);
+                
             }
-            int i = SystemInformation.BorderSize.Width;
-            if ((B.Location.X + B.Width+10) < Width- SystemInformation.BorderSize.Width-4) //-4 нужно, т.к граница в около 6 пикселей слева у окна не является частью окна
+            if (A.Location.X <= 10)
+            {
+                A.Location = new Point(0, A.Location.Y);
+            }
+            
+            if ((B.Location.X + B.Width+10) < Width- SystemInformation.BorderSize.Width) //-4 нужно, т.к граница в около 6 пикселей слева у окна не является частью окна
             {
                 B.Location = new Point(B.Location.X + 10, B.Location.Y);
             }
+            
+            
         }
     }
 }
