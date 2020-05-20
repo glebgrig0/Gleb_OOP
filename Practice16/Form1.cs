@@ -84,5 +84,15 @@ namespace Practice16
             }
             label1.Text = result;
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+
+            if (MessageBox.Show("Вы закроете приложение, уверены?", "Выйти", MessageBoxButtons.YesNo) == DialogResult.Yes) {
+                Close();
+
+            }
+
+        }
     }
 }

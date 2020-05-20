@@ -146,6 +146,7 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "Quit";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // groupBox2
             // 
